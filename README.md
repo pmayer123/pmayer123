@@ -9,6 +9,7 @@ I'm a senior at Augustana College majoring in Computer Science and Data Analytic
 - Building a Plant Management app with my team for our senior project
 ## Connect with me:
 LinkedIn - www.linkedin.com/in/patrick-mayer-19a779275 
+Skills Portfolio - https://portfolio-wtmi.onrender.com
 ## Tech Stack:
 - Languages - Java, Python, R, SQL
 - Developer Tools - Tableau, PowerBi, Git
